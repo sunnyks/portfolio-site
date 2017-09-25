@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 24, 2017, 10:47:59 PM
+    Author     : Sunny
+*/
+
+.body{
+    padding:15px 0;
+    font-family: sans-serif;
+}
+
+.header {
+    text-align: right;
+    height: 60px;
+    text-transform: uppercase;
+}
+
+.profpic {
+    vertical-align: middle;
+    display: inline;
+}
+
+.name {
+    text-shadow: 2px 2px 1px gray;
+}
+
+.role {
+    position: relative;
+    bottom: 10px;
+}
+
+.meat {
+    box-shadow: 4px 4px 6px #255625;
+}
+
+.me {
+    text-align: center;
+}
+
+.proj-pic {
+    margin: auto;
+    height: 160px;
+    width: 180px;
+}
