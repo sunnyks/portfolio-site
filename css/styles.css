@@ -8,7 +8,7 @@ and open the template in the editor.
     Author     : Sunny
 */
 
-.body{
+.body {
     padding:15px 0;
     font-family: sans-serif;
 }
@@ -43,6 +43,6 @@ and open the template in the editor.
 
 .proj-pic {
     margin: auto;
-    height: 160px;
-    width: 180px;
+    height: auto;
+    width: auto;
 }
